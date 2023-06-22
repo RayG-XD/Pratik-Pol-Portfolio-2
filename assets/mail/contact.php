@@ -39,14 +39,14 @@ if(get_magic_quotes_gpc()) {
 
 // Configuration option.
 // Enter the email address that you want to emails to be sent to.
-// Example $address = "joe.doe@yourdomain.com";
+// Example $address = "pratikpol0602@gmail.com";
 
-//$address = "example@themeforest.net";
-$address = "support@validthemes.live";
+//$address = "pratikpol0602@gmail.com";
+$address = "pratikpol0602@gmail.com";
 
 
 // Configuration option.
-// i.e. The standard subject will appear as, "You've been contacted by John Doe."
+// i.e. The standard subject will appear as, "You've been contacted by ABC XYZ."
 
 // Example, $e_subject = '$name . ' has contacted you via Your Website.';
 
