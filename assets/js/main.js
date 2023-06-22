@@ -1,7 +1,7 @@
 /* ===================================================================
     
-    Author          : Valid Theme
-    Template Name   : Ambrox - Personal Portfolio Template
+    Author          : 
+    Template Name   : 
     Version         : 1.0
     
 * ================================================================= */
